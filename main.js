@@ -15,3 +15,5 @@ function division(a, b) {
   total = a / b;
   return total;
 }
+
+alert("El resultado de tu operación es: " + total);
